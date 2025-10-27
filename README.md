@@ -6,11 +6,11 @@ This repository contains an Excel workbook analyzing budgetary planning for Flag
 - **Valentines_Ball_Hines.xlsx** — main Excel file containing all formulas, charts, and data.
 
 ## Features
-- [ ] What-If Analysis
-- [ ] Pivot Tables
-- [ ] Scenario Manager
-- [ ] Solver
-- [ ] VLOOKUP
+What-If Analysis
+Pivot Tables
+Scenario Manager
+Solver
+VLOOKUP
 
 ## How to Use
 1. Download the Excel file.
